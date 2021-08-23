@@ -1,0 +1,19 @@
+/* for lappy */
+@media only screen and (max-width:1200px){
+
+    
+}
+/* for large and large rablappy */
+@media only screen and (max-width:1023px){
+
+}
+/* for large phone and small tab */
+@media only screen and (max-width:768px){
+
+}/* for mob */
+@media only screen and (max-width:480px){
+   .about-box:first-child{
+       text-align: center;
+   }
+    
+}
